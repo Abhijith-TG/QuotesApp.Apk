@@ -26,6 +26,9 @@ export default function App() {
   const [quotes, setQuotes] = useState([]);
   const [color, setColor] = useState(getRandomColor());
 
+
+  
+
   return (
     <View style={styles.container}>
 
